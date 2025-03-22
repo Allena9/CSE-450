@@ -1,3 +1,5 @@
 /SignRecognition/training
 /Rnn/data
 SignRecognition/best_model.h5
+tree.txt
+vocabulary.txt
