@@ -1,0 +1,3 @@
+/SignRecognition/training
+/Rnn/data
+SignRecognition/best_model.h5
