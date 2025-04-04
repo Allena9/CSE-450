@@ -7,3 +7,4 @@ austen.txt
 /CarRecognition/organized_cars
 /CarRecognition/cars_test
 /CarRecognition/cars_train
+CarRecognition/car_predictor.h5
