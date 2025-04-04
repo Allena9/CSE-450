@@ -4,3 +4,6 @@ tree.txt
 vocabulary.txt
 austen.txt
 /Rnn/data/raw
+/CarRecognition/organized_cars
+/CarRecognition/cars_test
+/CarRecognition/cars_train
